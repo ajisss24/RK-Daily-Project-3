@@ -2,7 +2,7 @@
 
 Proyek ini adalah implementasi sistem pelacakan alumni berbasis *web* menggunakan PHP murni dan MySQL, berlandaskan 12 Langkah Pseudocode Aplikasi pada Daily Project 2 Mata Kuliah Rekayasa Kebutuhan. Sistem ini dirancang untuk menyelesaikan tugas Daily Project 3 Mata Kuliah Rekayasa Kebutuhan.
 
-## ✨ Fitur Sesuai Pseudocode
+## Fitur Sesuai Pseudocode
 Sistem memuat simulasi logika dan penerapan algoritma dari 12 langkah pseudocode secara berurutan saat tracker diaktifkan.
 
 1. **Persiapan Target (Langkah 1)** - Profil alumni diambil dan dirangkai variasinya.
@@ -20,7 +20,7 @@ Sistem memuat simulasi logika dan penerapan algoritma dari 12 langkah pseudocode
 
 ---
 
-## 📂 Struktur Folder Project
+## Struktur Folder Project
 
 ```text
 alumni_tracker/
@@ -35,7 +35,7 @@ alumni_tracker/
 └── tracker.php      # Berisi 12 tahap pseudocode algoritma pencarian per target
 ```
 
-## 🚀 Cara Menjalankan Aplikasi (VS Code + Laragon + HeidiSQL)
+## Cara Menjalankan Aplikasi (VS Code + Laragon + HeidiSQL)
 1. Buka folder *project* ini (`alumni_tracker`) langsung menggunakan aplikasi **Visual Studio Code (VS Code)**.
 2. Buka aplikasi **Laragon** di komputer Anda, lalu klik tombol **Start All**. Pastikan modul **MySQL** menyala (running).
 3. Klik tombol **Database** di Laragon untuk membuka **HeidiSQL**. Klik *Open* untuk masuk.
@@ -49,7 +49,7 @@ alumni_tracker/
 
 ---
 
-## 🧪 Tabel Pengujian Aplikasi (Kualitas Perangkat Lunak)
+## Tabel Pengujian Aplikasi (Kualitas Perangkat Lunak)
 
 Sesuai **Desain Daily Project 2**, berikut disajikan hasil pengujian fungsionalitas dan non-fungsionalitas aplikasi.
 
